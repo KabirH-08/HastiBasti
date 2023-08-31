@@ -1,0 +1,6 @@
+.navbarKabir{
+    background-image: url(images/NavbarBG.jpeg) ;
+    background-color: rgba(100, 100, 100, 0.479);
+    background-blend-mode: multiply;
+    background-size: cover;
+}
